@@ -3,11 +3,11 @@
  █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
  ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+WHATSAPP BOT BY Tech God ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+WHATSAPP - 919012008456
+SUPPORT GROUP - https://wa.me/+919012008456
+YOUTUBE - http://youtube.com/@techgod143
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
@@ -33,11 +33,11 @@ global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
 global.VOICE_REPLY = false
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
-global.AUTO_BIO = false
+global.AUTO_BIO = true
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
-global.AUTO_REACT = false
+global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
 global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
@@ -76,17 +76,17 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['919012008456'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Tech God wa.me/+919012008456'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'Tech God wa.me/+919012008456' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  'Tech God wa.me/+919012008456' 
 //👇 Inbox Block Massage 
-global.INBOX_BLOCK_MSG = 'BLOCK !!!'
+global.INBOX_BLOCK_MSG = 'For unblock sms to Tech God wa.me/+919012008456'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 //👇 Song Download Massage 
@@ -96,7 +96,7 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Kolkata'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
@@ -114,7 +114,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["94715166712","919012008456"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
@@ -122,7 +122,7 @@ global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'wa.me/+919012008456l'
 /*
 
    🍃 OTHER 🍃
@@ -164,13 +164,13 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['919012008456'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['919012008456'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Tech god' // Your name ඔබේ නම 
 global.sessionName = 'session'
-global.prefix = ['#','!','.'] 
+global.prefix = ['#','!','.&'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = 'Tech god'
 
 global.limitawal = {
     premium: "Infinity", 

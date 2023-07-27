@@ -23,24 +23,23 @@
 
 # 
 
-### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/DarkMakerofc)
+### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/techgod143)
 <b>Version --> 3.8.6</b>
 # 
 Queen elisa whatsapp bot is,
 
-      Queen elisa whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      Queen elisa whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot |
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
 <p align="left">
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://github.com/techgod143/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
 
 # 
 
 * [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-MULTIAUTH-QR-SCANER)
 
-      ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 # 
 
 <details>
@@ -53,14 +52,14 @@ Queen elisa whatsapp bot is,
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Queen-Elisa-MD-V2)
+[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/techgod143/Queen-Elisa-MD-V2)
 
 [`Deploy on Replit`](https://replit.com)
 
 [`Deploy on Uffizzi`](https://www.uffizzi.com/)
 </details>
 
-## [`WATCH YOUTUBE VIDEOS`](youtube.com/MRNIMAOFC)
+## [`WATCH YOUTUBE VIDEOS`](youtube.com/@techgod143)
  
   ##* [How To setup Github 1st step](https://youtu.be/DEpSpJRg4CA)
   
@@ -136,8 +135,7 @@ THANAKS FOR USNING QUEEN ELISA 💃💖
 
 * [🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
 
-     
-       ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
+
 
   
   #### ```TOTAL PROFILE VIEWS 🧚```
@@ -146,4 +144,4 @@ THANAKS FOR USNING QUEEN ELISA 💃💖
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [thashi 💖]() for Voice ,[slrealtech](https://youtube.com/slrealtech) , [darkalpha](http://github.com/darkalphaxteam) and [isuru]() thanks for helps 💖
+ [Tech God 💖]() full support ,[yt channel link](https://youtube.com/@techgod143) , [tech god](http://github.com/techgod143) 

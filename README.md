@@ -61,11 +61,11 @@ Queen elisa whatsapp bot is,
 
 ## [`WATCH YOUTUBE VIDEOS`](youtube.com/@techgod143)
  
-  ##* [How To setup Github 1st step](https://youtu.be/DEpSpJRg4CA)
+  ##* [How To setup Github 1st step]([https://youtu.be/DEpSpJRg4CA](https://youtu.be/NQirEJjPGiw))
   
  * Deploy on Heroku Video ⇓
  <p align="left">
-<a href="https://youtu.be/IIl6etHMyoA"><img align="center" src="https://telegra.ph/file/30a48f9e9879189d2ef6d.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="[https://youtu.be/IIl6etHMyoA](https://youtu.be/NQirEJjPGiw)"><img align="center" src="https://telegra.ph/file/30a48f9e9879189d2ef6d.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * Deploy on Railway Video ⇓
  <p align="left">
@@ -86,7 +86,7 @@ Queen elisa whatsapp bot is,
 3. Uplode creds.json file to sessions folder
 4. Make acount on your host
 5. Connect Your Repository to your web host site
-6. [Watch Videos](http://youtube.com/mrnimaofc)
+6. [Watch Videos]([http://youtube.com/mrnimaofc](https://youtu.be/NQirEJjPGiw))
 # 
 # 
 ### [ DEPLY ON TERMUX ]
@@ -101,7 +101,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DarkMakerofc/Queen-Elisa-Md-V2
+git clone https://github.com/techgod143/Queen-Elisa-Md-V2
 cd Queen-Elisa-Md-V2
 npm install
 npm start
@@ -131,9 +131,9 @@ npm start
 </details>
 THANAKS FOR USNING QUEEN ELISA 💃💖
 
-* [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
+* [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻]([https://t.me/+Fc2vyKYBjFk3ZWZl](https://chat.whatsapp.com/CiKDR7Jo4ZV8upo7EGAvc9))
 
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+* [🦄 Join Public Group 🦄]([https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0](https://chat.whatsapp.com/CiKDR7Jo4ZV8upo7EGAvc9))
 
 
 

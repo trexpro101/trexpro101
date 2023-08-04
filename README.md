@@ -144,4 +144,4 @@ THANAKS FOR USNING QUEEN ELISA 💃💖
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [Tech God 💖]() full support ,[yt channel link](https://youtube.com/@techgod143) , [tech god](http://github.com/techgod143) 
+ [Tech God 💖]() full support ,[yt channel link](https://youtube.com/@techgod143) , [tech god](http://wa.me/919012008456) 
